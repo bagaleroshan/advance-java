@@ -26,7 +26,7 @@ public class Rectangle extends JFrame  implements ActionListener {
         calculate=new JButton("Calculate");
         output=new JLabel("Output");
         o=new JTextField(20);
-        setSize(300, 300);
+       setSize(300, 400);
         setVisible(true);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());

@@ -21,6 +21,7 @@ fnum2=new JTextField(20);
 //r1.addActionListener(this);
 //r2.addActionListener(this);
 Calculate =new JButton("calculate");
+setTitle("calculate");
 setSize(400,500);
 setVisible(true);
 setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
